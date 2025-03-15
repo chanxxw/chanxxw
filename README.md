@@ -1,4 +1,3 @@
-
 # 👨‍⚕️ About Me
 - 🩺 **Veterinarian** with expertise in internal medicine  
 - 🎓 **Ph.D. in Veterinary Internal Medicine (Completed Coursework)**  
@@ -6,7 +5,6 @@
 - 🏆 Passionate about **AI and deep learning research**, actively working on data analysis projects (Kaggle, etc.)  
 - 🎓 **AIFFEL Graduate**, specialized in AI development and deep learning applications  
 - 💡 **Developing AI applications using generative models**  
-
 
 # 🛠 Tech Stack
 ### Programming Languages  
@@ -22,15 +20,24 @@
 ![EfficientNet](https://img.shields.io/badge/efficientnet-%236DB33F.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)  
 
 ### Backend  
-![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white) 
+![ngrok](https://img.shields.io/badge/ngrok-%232084FF.svg?&style=for-the-badge&logo=ngrok&logoColor=white)  
 
 ### Mobile Development  
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)  
 
 ### Data Analysis & Visualization  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%231F77B4.svg?&style=for-the-badge&logo=plotly&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/seaborn-%234B0082.svg?&style=for-the-badge&logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/seaborn-%234B0082.svg?&style=for-the-badge&logo=python&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)  
+
+### Productivity & Collaboration  
+![TLDraw](https://img.shields.io/badge/tldraw-%23000000.svg?&style=for-the-badge&logo=tldraw&logoColor=white) 
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
+![Miro](https://img.shields.io/badge/miro-%23FFD02F.svg?&style=for-the-badge&logo=miro&logoColor=black)  
 
 # 📚 Research Interests
 - **Deep Learning & Computer Vision**: Image analysis and medical imaging diagnostics  
@@ -46,8 +53,9 @@
 - **📖 AI Story Generator**  
   - Designed an AI-powered application that generates creative children’s stories  
 
-# 📫 Contact Me 
-<img src="https://img.shields.io/badge/strauss2327@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/woochan-kim-bb0609187)
+# 📫 Contact Me  
+<img src="https://img.shields.io/badge/strauss2327@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/woochan-kim-bb0609187)  
+
 
 
 <!--
